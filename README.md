@@ -1,2 +1,2 @@
 # SBAROU339_WFC2401_GroupA_SbabalweRoux_SDF04
-This is a BlackJack Game.
+This is a BlackJack Game. Simple, easy and understandable.
